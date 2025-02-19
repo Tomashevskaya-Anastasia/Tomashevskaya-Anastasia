@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="" >
+  <a href="https://www.linkedin.com/in/anastasiia-tomashevska/?original_referer=https%3A%2F%2Fgithub.com%2FTomashevskaya-Anastasia" >
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="50" alt="linkedIn logo"  />
   </a>
 
