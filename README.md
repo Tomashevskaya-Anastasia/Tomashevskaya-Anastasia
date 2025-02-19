@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/?size=100&id=HKdmFbFm7xQV&format=png&color=000000" height="50" alt="Upwork logo"  />
   </a>
 
-  <a style="margin-left: 50px;" href="https://www.upwork.com/freelancers/~0167dad2fa5d4010dd?mp_source=share" >
+  <a href="https://www.upwork.com/freelancers/~0167dad2fa5d4010dd?mp_source=share" >
     <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" height="50" alt="Upwork logo"  />
   </a>
   
