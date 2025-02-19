@@ -11,11 +11,11 @@
 ###
 
 <div align="center">
-  <a href="" target="">
+  <a href="" >
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="50" alt="linkedIn logo"  />
   </a>
 
-  <a href="" target="">
+  <a href="" >
     <img src="https://img.icons8.com/?size=100&id=HKdmFbFm7xQV&format=png&color=000000" height="50" alt="Upwork logo"  />
   </a>
 </div>
