@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=aDKY2bv2CRRS&format=png&color=000000" height="70" alt="X logo"  />
+    <img src="https://img.icons8.com/?size=100&id=HKdmFbFm7xQV&format=png&color=000000" height="70" alt="X logo"  />
   </a>
 </div>
 
