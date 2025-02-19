@@ -11,12 +11,12 @@
 ###
 
 <div align="center">
-  <a href="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="70" alt="X logo"  />
+  <a href="" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="70" alt="linkedIn logo"  />
   </a>
 
   <a href="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=HKdmFbFm7xQV&format=png&color=000000" height="70" alt="X logo"  />
+    <img src="https://img.icons8.com/?size=100&id=HKdmFbFm7xQV&format=png&color=000000" height="70" alt="Upwork logo"  />
   </a>
 </div>
 
