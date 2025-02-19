@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tomashevskaya-Anastasia&locale=en&mode=daily&theme=dark&hide_border=false" height="auto" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Tomashevskaya-Anastasia&locale=en&mode=daily&theme=dark&hide_border=false" height="auto" bottom="0px" alt="streak graph"  />
 </div>
 
 ###
