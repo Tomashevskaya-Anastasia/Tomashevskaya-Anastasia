@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=TomasevskijVlad" target="_blank">
+  <a href="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" target="_blank">
     <img src="https://img.shields.io/twitter/follow/TomasevskijVlad" height="25" alt="X logo"  />
   </a>
 </div>
